@@ -82,7 +82,7 @@ const Projects = () => {
       icon: Cpu,
       title: "AmmyChain",
       description: "High-performance L1 blockchain with zero gas fees",
-      status: "Live",
+      status: "Comming Soon",
       logos: ["https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"]
     },
     {
@@ -96,28 +96,28 @@ const Projects = () => {
       icon: ShoppingCart,
       title: "AmmyPay",
       description: "Merchant gateway with instant conversion",
-      status: "Live",
+      status: "Comming Soon",
       logos: ["https://assets.coingecko.com/coins/images/4128/large/solana.png"]
     },
     {
       icon: Banknote,
       title: "AmmyFi",
       description: "Decentralized lending/borrowing protocol",
-      status: "Q3 2024",
+      status: "Comming Soon",
       logos: ["https://assets.coingecko.com/coins/images/12645/large/AAVE.png"]
     },
     {
       icon: Users,
       title: "AmmyDAO",
       description: "Community governance platform",
-      status: "Live",
+      status: "Comming Soon",
       logos: ["https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"]
     },
     {
       icon: Cctv,
       title: "AmmyGuard",
       description: "Blockchain security auditing service",
-      status: "Q4 2024",
+      status: "Comming Soon",
       logos: ["https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png"]
     }
   ];
